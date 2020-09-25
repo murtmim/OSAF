@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution of test case using : PHPFlightbookingTest]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42093" started-at="2020-09-25T12:31:37Z" finished-at="2020-09-25T12:32:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42093" started-at="2020-09-25T12:31:37Z" finished-at="2020-09-25T12:32:19Z">
+      <class name="com.tcs.saf.test.PHPTravlesFlightBooking">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.tcs.saf.test.PHPTravlesFlightBooking@460d0a57]" name="beforemethod" is-config="true" duration-ms="21250" started-at="2020-09-25T18:01:37Z" finished-at="2020-09-25T18:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="FlightbookingTest()[pri:0, instance:com.tcs.saf.test.PHPTravlesFlightBooking@460d0a57]" name="FlightbookingTest" duration-ms="20040" started-at="2020-09-25T18:01:58Z" finished-at="2020-09-25T18:02:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution of test case using : PHPFlightbookingTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FlightbookingTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.tcs.saf.test.PHPTravlesFlightBooking@460d0a57]" name="afterMethod" is-config="true" duration-ms="772" started-at="2020-09-25T18:02:18Z" finished-at="2020-09-25T18:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.tcs.saf.test.PHPTravlesFlightBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
